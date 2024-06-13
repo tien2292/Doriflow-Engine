@@ -38,6 +38,15 @@ Enhance your fluid simulations realism with Doriflow's whitewater generation fea
 Whitewater generation adds an extra layer of detail and realism to your fluid simulations, making scenes involving oceans, rivers, and other water bodies more dynamic and visually appealing.
 
 ## Show cases
+<p align="left">
+  <img src="./show_cases/wave_interference_cross_float.gif" width="15%" height="15%" />
+  <img src="./show_cases/flow_cylinder_high_viscosity.gif" width="15%" height="15%" />
+  <img src="./show_cases/float_torus.gif" width="15%" height="15%" />
+  <img src="./show_cases/float_preset_1.gif" width="15%" height="15%" />
+  <img src="./show_cases/density_variations.gif" width="15%" height="15%" />
+  <img src="./show_cases/2_bridges_wave_crash.gif" width="15%" height="15%" />
+  <img src="./show_cases/arch_bridge_wave_crash.gif" width="15%" height="15%"/><br>
+</p>
 
 ## Contribution
 We welcome contributions from the community! If you have bug reports, requests, recommendation on any extra features, feel free to open an issues.
