@@ -1,10 +1,10 @@
 # Doriflow Addon for Blender
-[[website](https://doriflow.com)] [[Installation](https://doriflow.com/installation)] [[Tutorial](https://doriflow.com/tutorial)]
+[[Website](https://doriflow.com)] [[Installation](https://doriflow.com/installation)] [[Tutorial](https://doriflow.com/tutorial)]
 
 Doriflow is a powerful fluid simulation addon for Blender, designed to bring advanced fluid dynamics capabilities to your Blender 3D projects. This addon features a GPU-accelerated fluid solver, two-way fluid-rigid coupling, and whitewater generation. Whether you're working on visual effects, animations, or physical simulations, Doriflow provides the tools you need to create stunning and realistic fluid behaviors.
 
 <figure align="center">
-  <img src="./doriflow_logo.png" alt="Doriflow Logo" width="50%">
+  <img src="./Doriflow_logo.png" alt="Doriflow Logo" width="15%">
   <figcaption>Doriflow - Advanced Fluid Simulation for Blender</figcaption>
 </figure>
 
