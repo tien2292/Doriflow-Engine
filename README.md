@@ -49,9 +49,9 @@ Whitewater generation adds an extra layer of detail and realism to your fluid si
 </p>
 
 ## Contribution
-We welcome contributions from the community! If you have bug reports, requests, recommendation on any extra features, feel free to open an issues.
+We welcome contributions from the community! If you have bug reports, requests, recommendation on any extra features, feel free to open issues.
 
 ## License
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0. See the [LICENSE](https://github.com/your-repo/LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). See the [LICENSE](https://github.com/tien2292/Doriflow-Engine/blob/main/LICENSE) file for details.
 
 Thank you for using Doriflow! We hope it helps you create amazing fluid simulations in Blender.
