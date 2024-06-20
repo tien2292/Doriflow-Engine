@@ -5,7 +5,7 @@ Doriflow is a powerful fluid simulation engine, designed to bring advanced fluid
 
 <figure align="center">
   <img src="./Doriflow_logo.png" alt="Doriflow Logo" width="15%">
-  <figcaption>Doriflow - Advanced Fluid Simulation for Blender</figcaption>
+  <figcaption>Doriflow - Advanced Fluid Simulation with Blender's ray-tracing power</figcaption>
 </figure>
 
 ## Features
@@ -45,6 +45,15 @@ Whitewater generation adds an extra layer of detail and realism to your fluid si
   <img src="./show_cases/float_preset_1.gif" width="15%" height="15%" />
   <img src="./show_cases/density_variations.gif" width="15%" height="15%" />
   <img src="./show_cases/2_bridges_wave_crash.gif" width="15%" height="15%" />
+  <img src="./show_cases/Drop_arrowpiercing.gif" width="15%" height="15%" />
+  <img src="./show_cases/coanda_effect.gif" width="15%" height="15%" />
+  <img src="./show_cases/falling_cubes.gif" width="15%" height="15%" />
+  <img src="./show_cases/float_preset_2.gif" width="15%" height="15%" />
+  <img src="./show_cases/flow_2_cylinders.gif" width="15%" height="15%" />
+  <img src="./show_cases/flow_high_poly.gif" width="15%" height="15%" />
+  <img src="./show_cases/forest_flood_mitigation.gif" width="15%" height="15%" />
+  <img src="./show_cases/london_flood.gif" width="15%" height="15%" />
+  <img src="./show_cases/mountain_lake.gif" width="15%" height="15%" />
   <img src="./show_cases/arch_bridge_wave_crash.gif" width="15%" height="15%"/><br>
 </p>
 
